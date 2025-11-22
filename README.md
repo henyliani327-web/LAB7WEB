@@ -254,6 +254,24 @@ Kode tersebut menampilkan perulangan menggunakan while. Variabel `$i` mulai dari
 <img width="1919" height="617" alt="image" src="https://github.com/user-attachments/assets/7994d748-30e2-4922-85e0-2cb6a96aaaf5" />
 Kode tersebut menampilkan perulangan menggunakan do...while. Nilai `$i` dimulai dari 1, lalu bagian `do` akan dijalankan terlebih dahulu untuk menampilkan teks “Perulangan ke-” beserta angkanya. Setelah itu `$i` ditambah satu, kemudian kondisi while `($i <= 10)` dicek. Selama kondisi masih benar, perulangan akan terus diulang. Karena bagian `do` selalu dijalankan minimal sekali, urutan angka 1 sampai 10 akan tampil pada halaman.
 
+## Tugas LAB7WEB
+Program ini merupakan aplikasi PHP dasar yang memanfaatkan sebuah media input data. Pengguna dapat memasukkan nama, tanggal lahir, serta jenis pekerjaan yang dipilih dari daftar pilihan.
+
+Setelah data dikirimkan, PHP akan memprosesnya dengan cara:
+
+- Menghitung usia pengguna secara otomatis berdasarkan tanggal lahir yang diberikan.
+- Menentukan besaran gaji sesuai pekerjaan yang dipilih, menggunakan struktur kontrol switch-case untuk membedakan setiap kategori pekerjaan.
+ -Menampilkan kembali seluruh hasil input beserta perhitungan pada halaman yang sama.
+
+Program ini mempelajari cara kerja form, pengolahan data, dan pengambilan keputusan dalam PHP.
+
+## Hasil ss (Tampilan Code)
+<img width="1586" height="4510" alt="ss lab 7" src="https://github.com/user-attachments/assets/38707d51-bbe4-4547-b57d-1ecfb92be337" />
+## Hasil Outputnya:
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/32fb6c88-2ecd-4a7a-8fce-a0d700420f94" />
+
+
+
 
 
 
